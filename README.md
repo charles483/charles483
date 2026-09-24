@@ -16,84 +16,100 @@
 
 ---
 
-### 👨🏽‍💻 About Me
+## 👨🏽‍💻 About Me
 
 I build **production-ready software where geospatial intelligence, data, and real-world business workflows meet.**
 
-🗺️ GIS & Remote Sensing
-💻 Full-Stack & Desktop Applications
-🏦 Enterprise & Financial Systems
-🤖 Machine Learning & Spatial AI
-🔌 Offline-First & Distributed Systems
+* 🗺️ GIS, Remote Sensing & Earth Observation
+* 💻 Full-Stack & Desktop Applications
+* 🏦 Enterprise & Financial Systems
+* 🤖 Machine Learning & Spatial AI
+* 🔌 Offline-First & Distributed Systems
 
 > **From satellite pixels and coordinates to software that solves real problems.**
 
 ---
 
-### 🛠️ Tech Stack
+## 🛠️ Technologies
 
-**Languages**
+### Languages
 
-`TypeScript` `JavaScript` `Python` `R` `SQL`
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js,python,r" />
+  <img src="https://skillicons.dev/icons?i=postgres" />
+</p>
 
-**Frontend & Applications**
+### Frontend & Applications
 
-`React` `Vite` `Tailwind CSS` `Electron`
+<p>
+  <img src="https://skillicons.dev/icons?i=react,vite,tailwind,electron" />
+</p>
 
-**Backend & Data**
+### Backend & Databases
 
-`Node.js` `Express` `FastAPI` `PostgreSQL` `SQLite` `PostGIS`
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,postgresql,sqlite,redis" />
+</p>
 
-**Geospatial**
+### Geospatial
 
-`QGIS` `ArcGIS Pro` `Google Earth Engine` `GDAL` `Rasterio` `GeoPandas` `Leaflet` `Turf.js`
+<p>
+  <img src="https://skillicons.dev/icons?i=python" />
+  <br>
+  <img src="https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white" />
+  <img src="https://img.shields.io/badge/ArcGIS%20Pro-2C7AC3?style=for-the-badge&logo=arcgis&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google%20Earth%20Engine-4285F4?style=for-the-badge&logo=googleearth&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostGIS-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Leaflet-199900?style=for-the-badge&logo=leaflet&logoColor=white" />
+</p>
 
-**Engineering**
+### Engineering & DevOps
 
-`Git` `GitHub Actions` `Docker` `Linux` `PowerShell`
-
----
-
-### 🚀 What I'm Building
-
-🏦 **Enterprise Systems**
-Offline-first SACCO & financial management software.
-
-🛰️ **Geospatial Intelligence**
-Remote sensing, spatial modelling, environmental analysis and Web GIS.
-
-🤖 **AI + Spatial Data**
-Machine learning workflows for Earth observation and location intelligence.
-
-🌍 **Open Mapping**
-OpenStreetMap, humanitarian mapping and community geospatial data.
-
----
-
-### 📊 GitHub
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=charles483&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=charles483&layout=compact&hide_border=true&theme=transparent" />
-
-</div>
+<p>
+  <img src="https://skillicons.dev/icons?i=git,githubactions,docker,linux,powershell" />
+</p>
 
 ---
 
-### 🌍 Connect
+## 🚀 What I'm Building
 
-📧 **[charleschuru94@gmail.com](mailto:charleschuru94@gmail.com)**
-🇰🇪 **Kenya**
+| Area                            | Focus                                    |
+| ------------------------------- | ---------------------------------------- |
+| 🏦 **Enterprise Software**      | Offline-first SACCO & financial systems  |
+| 🛰️ **Geospatial Intelligence** | GIS, remote sensing & spatial modelling  |
+| 🤖 **Spatial AI**               | Machine learning for Earth observation   |
+| 🌍 **Open Mapping**             | OpenStreetMap & humanitarian mapping     |
+| 🌐 **Web GIS**                  | Interactive maps & location intelligence |
 
-**Open to:** Geospatial · Remote Sensing · Full-Stack · Enterprise Software · Spatial AI
+---
 
-<div align="center">
+## 📊 GitHub
 
-### **Build with data. Think spatially. Ship useful software.**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=charles483&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=charles483&layout=compact&hide_border=true&theme=transparent" height="170" />
+</p>
 
-</div>
+---
+
+## 🤝 Let's Connect
+
+<p align="center">
+  <a href="mailto:charleschuru94@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://charles483.github.io">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+
+### 🌍 Build with data. Think spatially. Ship useful software.
+
+**Kenya 🇰🇪 · Geospatial Software Engineer**
+
+</p>
 
 <!--
 charles483/charles483 is a ✨ special ✨ repository because its README.md
